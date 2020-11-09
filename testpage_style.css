@@ -1,0 +1,159 @@
+body{
+  background: #161a1e;
+}
+.wrap{
+  width: auto;
+  margin: 0 auto;
+  background: #161a1e;
+}
+
+header{
+  height: 800px;
+  margin: 0 auto;
+}
+
+.header_main{
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 72px;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 400;
+  padding-top: 150px;
+}
+
+.redStroke{
+  background-color: #BD0028;
+  margin: 100px auto;
+  height: 5px;
+  width: 520px;
+}
+
+.header_lower{
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 36px;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 300;
+  margin: auto;
+  margin-top: 60px
+}
+
+.navigation{
+  color: #FFFFFF;
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  margin: 75px auto;
+  margin-left: -39px;
+}
+
+
+.navLinks {
+    list-style-type: none
+}
+
+.navDots{
+  display: inline;
+  padding: 0px 25px 0px 25px;
+  color: white;
+}
+
+.Menu_Link{
+  color: white;
+}
+
+.About_Block{
+  height: 800px;
+  border: 1px solid black;
+  background: white;
+  padding: 120px;
+  padding-top: 250px;
+  margin: 0 -25px;
+}
+.About_Main{
+  text-align: center;
+  color: black;
+  font-size: 72px;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 400;
+  margin-top: -5px;
+}
+
+.About_Text{
+  float: left;
+  width: 40%;
+  text-align: left;
+  color: black;
+  font-size: 23px;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 400;
+  padding-top: -55px;
+}
+
+.MyPhoto{
+  border: none;
+  width: 40%;
+  float: left;
+  padding-left: 15%;
+}
+
+.Portfolio_Block{
+  height: 900px;
+  background: #161a1e;
+}
+
+.Portfolio_Main{
+  text-align: center;
+  color: white;
+  font-size: 72px;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 400;
+  margin-top: 170px;
+}
+
+.Portfolio_Pic{
+  height: 290px;
+}
+
+.Portfolio_Images_Block{
+  margin: auto;
+  margin-top: 200px;
+}
+
+.Contacs_Block{
+  height: 500px;
+  background: black;
+  padding: 150px;
+  margin: 0 -25px;
+}
+.Contacts_Main{
+  text-align: center;
+  color: white;
+  font-size: 72px;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 400;
+}
+
+.Contacts_List_Block{
+  margin-top: 250px;
+}
+
+.Contacs_Ul{
+  margin: auto;
+}
+
+.Contacts_Dots{
+  display: inline;
+  padding: 0px 25px 0px 25px;
+  color: white;
+  color: #FFFFFF;
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  margin: 75px auto;
+  margin-left: -39px;
+}
+
+.ContactsLinks{
+  color: white;
+}
